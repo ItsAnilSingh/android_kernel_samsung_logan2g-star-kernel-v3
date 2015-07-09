@@ -16,7 +16,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 8
-EXTRAVERSION = -cm-anil-singh
+EXTRAVERSION = -cm-kernel-anil-singh
 NAME = Sneaky Weasel
 
 # *DOCUMENTATION*
